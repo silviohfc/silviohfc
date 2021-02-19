@@ -16,7 +16,6 @@ I'm currently working as __Back-end Developer__ at
 <br/><br/>
 
 ##### My Stats
-<img align="right" alt="Smarkio" src="https://cdn.dribbble.com/users/1860540/screenshots/5443348/web_dev.gif" width="350px">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silviohfc&custom_title=GitHub+Stats&show_icons=true&hide=issues,contribs&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
