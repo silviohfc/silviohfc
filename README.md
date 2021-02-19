@@ -6,7 +6,7 @@ I'm currently working as __Back-end Developer__ at
 [<img align="left" alt="Smarkio" src="https://letsbot.rocks/wp-content/uploads/2021/01/logo-smarkio-2.png" width="192px">](https://www.smarkio.com.br/) 
 <br/><br/>
 
-##### Techonology Stack
+##### Technology Stack
 [<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
