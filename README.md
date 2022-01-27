@@ -36,12 +36,6 @@ I'm currently working as __Back-end Developer__ at
 
 <br/><br/>
 
-##### My Stats
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silviohfc&custom_title=GitHub+Stats&show_icons=true&hide=issues,contribs&count_private=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ##### Connect with me!
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/silviohfc/) 
 <br/><br/>
