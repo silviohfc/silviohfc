@@ -1,6 +1,5 @@
 
 # Hi Dev! I'm Silvio Ferreira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="https://app.daily.dev/silviohfc"><img align="right" src="https://github.com/silviohfc/silviohfc/blob/master/devcard.svg" width="308" alt="Silvio Ferreira's Dev Card"/></a>
 
 I'm currently working as __Back-end Developer__ at
 <br/><br/>
