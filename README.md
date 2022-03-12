@@ -3,7 +3,7 @@
 
 I'm currently working as __Back-end Developer__ at
 <br/><br/>
-[<img align="left" alt="Smarkio" src="https://letsbot.rocks/wp-content/uploads/2021/01/logo-smarkio-2.png" width="192px">](https://www.smarkio.com.br/) 
+[<img align="left" alt="Smarkio" src="https://images.endeavor.org.br/uploads/2020/07/16141227/BRANDMARK_ZENVIA_horizontal_positivo-360x86.png" width="192px">](https://www.zenvia.com/) 
 <br/><br/>
 
 ##### Technology Stack
