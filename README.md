@@ -17,7 +17,7 @@ I'm currently working as __Back-end Developer__ at
 <br/>
 
 ###### Database
-[<img align="left" alt="MySQL" width="30px" src="https://appmasters.io/static/mysql-logo-bab2c760c60f17191cb3a002e08a3dbf.png" />](https://www.mysql.com/)
+[<img align="left" alt="MySQL" width="30px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />](https://www.mysql.com/)
 [<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="MongoDB" width="30px" src="http://db4beginners.com/wp-content/uploads/2017/10/LogoMongoDB-pq-300x300.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Redis" width="30px" src="https://cweijan.gallerycdn.vsassets.io/extensions/cweijan/vscode-redis-client/1.2.8/1611110376507/Microsoft.VisualStudio.Services.Icons.Default" />](https://redis.io/)
