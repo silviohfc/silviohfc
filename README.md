@@ -1,5 +1,5 @@
 
-# Hi Dev! I'm Silvio Ferreira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi Dev, I'm Silvio Ferreira!
 
 I'm currently working as __Back-end Developer__ at
 <br/><br/>
