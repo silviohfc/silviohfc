@@ -13,6 +13,7 @@ I'm currently working as __Back-end Developer__ at
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
 [<img align="left" alt="C#" width="30px" src="https://dannymcgee.gallerycdn.vsassets.io/extensions/dannymcgee/csharp-grammar-extended/1.1.1/1576121453694/Microsoft.VisualStudio.Services.Icons.Default" />](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+[<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />](https://kotlinlang.org/)
 
 <br/>
 
