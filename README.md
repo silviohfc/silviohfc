@@ -3,8 +3,12 @@
 
 I'm currently working as __Back-end Developer__ at
 <br/><br/>
-[<img align="left" alt="Smarkio" src="https://images.endeavor.org.br/uploads/2020/07/16141227/BRANDMARK_ZENVIA_horizontal_positivo-360x86.png" width="192px">](https://www.zenvia.com/) 
-<br/><br/>
+[<img align="left" alt="Zup Innovation" src="https://github.com/silviohfc/silviohfc/assets/50345168/e85abb1e-8e7c-4321-b67a-d0c9092e2a65" width="192px">](https://www.zupinnovation.com/) 
+[<img align="left" alt="StackSpot" src="https://github.com/silviohfc/silviohfc/assets/50345168/58b8f5d9-aed4-488f-b80e-3d344185ff6c" width="292px">](https://www.stackspot.com/en/) 
+
+
+<br/><br/><br/>
+
 
 ##### Technology Stack
 ###### Languages
